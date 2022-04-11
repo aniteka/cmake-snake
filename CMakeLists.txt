@@ -5,4 +5,3 @@ project(CmakeSnake)
 include(main.cmake)
 
 main()
-
